@@ -6,15 +6,15 @@
 
 Параметры базы данных находятся в файле .env. Его необходимо создать и заполнить в таком порядке: 
 
- ```
-DB_ENGINE=' '
-DB_HOST=' '
-DB_PORT=' '
-DB_NAME=' '
-DB_USER=' '
-DB_PASSWORD=' '
+ ```env
+DB_ENGINE='Your_engine'
+DB_HOST='Your_host'
+DB_PORT='Your_port'
+DB_NAME='Your_name'
+DB_USER='Your_user'
+DB_PASSWORD='Your_password'
 
-SECRET_KEY=' '
+SECRET_KEY='Your_secret_key'
 
 DEBUG=False
  ```
