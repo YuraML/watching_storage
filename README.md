@@ -16,6 +16,8 @@ DB_PASSWORD='Your_password'
 
 SECRET_KEY='Your_secret_key'
 
+ALLOWED_HOSTS='Your_allowed_hosts'
+
 DEBUG=False
  ```
 
