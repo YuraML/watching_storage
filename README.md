@@ -16,10 +16,12 @@ DB_PASSWORD='Your_password'
 
 SECRET_KEY='Your_secret_key'
 
-ALLOWED_HOSTS='Your_allowed_hosts'
+ALLOWED_HOSTS='localhost'    #default 
 
-DEBUG=False
+DEBUG=False    #default
  ```
+ *default - настройки со значением по умолчанию
+ 
 
 Python3 должен быть уже установлен. 
 Затем используйте `pip` (или `pip3`, есть конфликт с Python2) для установки зависимостей:
